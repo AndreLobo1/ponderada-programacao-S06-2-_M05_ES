@@ -6,7 +6,7 @@ Este repositório é dedicado à atividade ponderada da semana 6 do curso de Eng
 
 Para atender aos requisitos da atividade, implementamos testes automatizados para validar o funcionamento das operações CRUD (Create, Read, Update, Delete) da entidade Tecnologias Assistivas em nosso projeto. Esses testes foram projetados para verificar o comportamento das rotas e controllers responsáveis pelas operações CRUD, além de garantir a correta integração com os services que interagem com o banco de dados. A automação dos testes foi realizada utilizando o framework Jest em conjunto com a biblioteca Supertest , que nos permitiu simular requisições HTTP e validar as respostas da API de forma eficiente.
 
-Você pode acessar o arquivo de teste clicando [aqui]().
+Você pode acessar o arquivo de teste clicando [aqui](https://github.com/AndreLobo1/ponderada-programacao-S06-2-_M05_ES/blob/main/tecnologiasAssistivas.test.js).
 
 # 2. Objetivo
 
