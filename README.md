@@ -110,13 +110,13 @@ Segue uma tabela exibindo os resultados esperados para cada operação:
 
 # 6. Resultado Obtido
 
-Segue um print do resultado obtido:
+Segue um registro do resultado obtido:
 
-<p align="center">
-  <img src="" alt="Resultado dos Testes" />
-</p>
+<div align="center">
+  <img src="/Captura de Tela (14).png" alt="Resultado dos Testes" />
+</div>
 
-Com base no print acima, podemos concluir que:
+Com base no registro acima, podemos concluir que:
 
 - Todos os testes foram executados com sucesso.
 - As operações CRUD retornaram os resultados esperados, conforme descrito na tabela anterior.
